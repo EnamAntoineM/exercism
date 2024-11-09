@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "hello_world.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
